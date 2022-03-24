@@ -40,6 +40,8 @@ There are 5 URLs that can be accessed:
 - [ ] Integration with Postgres
 - [ ] Integration with Redis
 - [ ] Integration with MongoDB
+- [ ] Integration with SQLite
+- [ ] Unity Testing
 
 <p align="center">
   </br>
