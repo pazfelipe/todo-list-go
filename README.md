@@ -1,6 +1,8 @@
 # TODO LIST - GOLANG
 
-![Gopher](https://jollycontrarian.com/images/a/ab/Dramatic_Look_Gopher.gif)
+<p align="center">
+<img src="https://jollycontrarian.com/images/a/ab/Dramatic_Look_Gopher.gif" width="280"/>
+</p>
 
 ## A simple project to learn golang
 
@@ -25,13 +27,13 @@
 
 There are 5 URLs that can be accessed:
 
-| Method | URL | Response |
-| ------ | --- | -------- |
-|__GET__     | `http://localhost:8080/` | returns the todo list |
-|__POST__    | `http://localhost:8080/` | creates a new todo |
-|__GET__     | `http://localhost:8080/{id}` | returns an specific todo |
-|__PUT__     | `http://localhost:8080/{id}` | updates a todo |
-|__DELETE__  | `http://localhost:8080/{id}` | deletes a todo |
+| Method     | URL                          | Response                 |
+| ---------- | ---------------------------- | ------------------------ |
+| __GET__    | `http://localhost:8080/`     | returns the todo list    |
+| __POST__   | `http://localhost:8080/`     | creates a new todo       |
+| __GET__    | `http://localhost:8080/{id}` | returns an specific todo |
+| __PUT__    | `http://localhost:8080/{id}` | updates a todo           |
+| __DELETE__ | `http://localhost:8080/{id}` | deletes a todo           |
 
 ### Next steps
 
@@ -40,5 +42,8 @@ There are 5 URLs that can be accessed:
 - [ ] Integration with MongoDB
 
 <p align="center">
-  <imag src="https://i.giphy.com/media/XsGH5TII7EzGUvTN1g/giphy.webp" width="250" />
+  </br>
+  </br>
+  </br>
+  <img src="https://i.giphy.com/media/XsGH5TII7EzGUvTN1g/giphy.webp" width="250" />
 </p>
